@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan Haticus</h1>
 <h3 align="center">Versed in TypeScript, React, NextJS, TailwindCSS, Firebase, and Vercel..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanhaticus&label=Profile%20views&color=0e75b6&style=flat" alt="ryanhaticus" /> </p>
-
 - 🔭 I’m currently working on [printful-js](https://github.com/ryanhaticus/printful-js)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryanhaticus](https://github.com/ryanhaticus)
