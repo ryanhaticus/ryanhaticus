@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a marketing tool**
 
-- 👨‍💻 All of my projects are available [here on GitHub](here on GitHub)
+- 👨‍💻 All of my projects are available here on GitHub!
 
 - 💬 Ask me about **react, nextjs, and tailwindcss**
 
