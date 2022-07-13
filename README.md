@@ -18,8 +18,8 @@
   ![Vercel](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=triangle&text=Vercel)
   ![MongoDB](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=database&text=MongoDB)
   ![Firestore](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=fire&text=Firestore)
-  ![Visual Studio Code](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=microsoft&text=Visual Studio Code)
-  ![C++](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=code&text=C++)
+  ![Visual Studio Code](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=microsoft&text=Visual%20Studio%20Code)
+  ![C++](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=code&text=C%2b%2b)
   ![Java](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=java&text=Java)
 
 <h3> 📝 Get In Touch</h3>
