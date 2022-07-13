@@ -8,21 +8,21 @@
 
 <h3> 🔧 My Toolbox</h3>
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![NextJs](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![HTML5](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=html5&text=HTML5)
+  ![CSS](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=css3&text=CSS3)
+  ![JavaScript](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=js&text=JavaScript)
+  ![TypeScript](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=typewriter&text=TypeScript)
+  ![Node.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=node-js&text=Node.js)
+  ![React](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=react&text=React)
+  ![Next.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=triangle&text=Next.js)
+  ![Vercel](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=triangle&text=Vercel)
+  ![MongoDB](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=database&text=MongoDB)
+  ![Firestore](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=fire&text=Firestore)
+  ![Visual Studio Code](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=microsoft&text=Visual Studio Code)
+  ![C++](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=solid&icon=code&text=C++)
+  ![Java](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=java&text=Java)
 
 <h3> 📝 Get In Touch</h3>
 If you'd like to get in touch, please message me on Twitter.
 
-  [![Twitter](https://img.shields.io/badge/-ryanhaticus-333333?style=flat&logo=twitter)](https://www.twitter.com/ryanhaticus)
+  [![Twitter](https://badgebuddy.vercel.app/api/badge?scheme=blue&set=brands&icon=twitter&text=ryanhaticus)](https://www.twitter.com/ryanhaticus)
