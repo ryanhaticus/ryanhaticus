@@ -24,4 +24,4 @@
 
 <h3> 📝 Get In Touch</h3>
 If you'd like to get in touch, please message me on Twitter.
-[![Twitter](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=twitter&text=ryanhaticus)](https://www.twitter.com/ryanhaticus)
+  [![Twitter](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=twitter&text=ryanhaticus)](https://www.twitter.com/ryanhaticus)
