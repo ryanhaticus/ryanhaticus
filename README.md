@@ -11,7 +11,7 @@
   ![HTML5](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=html5&text=HTML5)
   ![CSS](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=css3&text=CSS3)
   ![JavaScript](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=js&text=JavaScript)
-  ![TypeScript](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=typewriter&text=TypeScript)
+  ![TypeScript](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=keyboard&text=TypeScript)
   ![Node.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=node-js&text=Node.js)
   ![React](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=react&text=React)
   ![Next.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=square-caret-up&text=Next.js)
