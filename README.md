@@ -15,7 +15,7 @@
   ![Node.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=node-js&text=Node.js)
   ![React](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=react&text=React)
   ![Next.js](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=square-caret-up&text=Next.js)
-  ![Vercel](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=square-caret-upe&text=Vercel)
+  ![Vercel](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=square-caret-up&text=Vercel)
   ![MongoDB](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=database&text=MongoDB)
   ![Firestore](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=solid&icon=fire&text=Firestore)
   ![Visual Studio Code](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=microsoft&text=Visual%20Studio%20Code)
