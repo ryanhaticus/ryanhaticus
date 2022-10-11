@@ -6,6 +6,8 @@
 - 💼 &nbsp; Working as a contracted software engineer for a variety of companies.
 - ✍️ &nbsp; Pursuing software as a service opportunities.
 
+Note: Due to a GitHub caching issue, you may have to refresh to see my badges.
+
 <h3> 🔧 My Toolbox</h3>
 
   ![HTML5](https://badgebuddy.vercel.app/api/badge?scheme=blue&size=small&set=brands&icon=html5&text=HTML5)
