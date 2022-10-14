@@ -1,10 +1,11 @@
-<h2> Hey there! I'm Ryan.</h2>
+<h2> Hey there! I'm Ryan Huellen.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Iowa State University.
-- 💼 &nbsp; Working as a contracted software engineer for a variety of companies.
-- ✍️ &nbsp; Pursuing software as a service opportunities.
+- 🧠 &nbsp; Founder and Software Engineer at @NeuralFormula
+- 🚜 &nbsp; Working as a Software Engineer Intern for @JohnDeere
+- 💼 &nbsp; Soon to be working as a Software Engineer Intern for @Workiva come Summer 2023
 
 Note: Due to a GitHub caching issue, you may have to refresh to see my badges.
 
