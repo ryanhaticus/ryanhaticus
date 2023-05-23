@@ -1,3 +1,2 @@
 - 🎓 Studying Computer Science at Iowa State University.
-- 💻 Founder of Huellen & Company.
-- 🚜 Working as a Software Engineer I at John Deere Financial.
+- 🚜 Working as a Software Engineer at John Deere Financial.
