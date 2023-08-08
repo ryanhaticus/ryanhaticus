@@ -1,3 +1,3 @@
-- 🎓 Studying Computer Science at Iowa State University.
-- 🏢 Doing digital consulting at Huellen Software Consulting, LLC.
-- 🚜 Working as a Software Engineer at John Deere Financial.
+- 🎓 Studying Computer Science at Iowa State University
+- 🎯 Software Engineer at Huellen Software Consulting, LLC.
+- 🚜 Software Engineer at John Deere
