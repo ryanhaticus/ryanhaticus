@@ -1,3 +1,2 @@
 - 🎓 Studying Computer Science at Iowa State University
-- 🎯 Software Engineer at Huellen Software Consulting, LLC.
 - 🚜 Software Engineer at John Deere
