@@ -1,2 +1,1 @@
-- 🎓 Studying Computer Science at Iowa State University
-- 🚜 Software Engineer at John Deere
+- 🚜 Software Engineer at John Deere Financial
