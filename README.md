@@ -1,3 +1,3 @@
 - 🚜 Software Engineer II at John Deere Financial
-- 🎓 Graduated with my B.S. in C.S. at 19 years old
-- 🏠 Started investing in vacant real estate at 18 years old
+- 🎓 Graduated with my B.S. in C.S. at 19!
+- 🏠 Started investing in vacant real estate!
