@@ -6,8 +6,6 @@
 
 ‣ Investor at [plusthirty](https://plusthirty.com), cutting microinvestment checks to under-23 founders on founder-first terms.
 
-‣ Previously four years across payments and compliance at John Deere Financial.
-
 ‣ Graduated with my B.S. in Computer Science in two years.
 
 ‣ I've been writing code for over a decade.
