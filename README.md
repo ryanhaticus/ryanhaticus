@@ -1,4 +1,6 @@
-‣ Software engineer at Stripe, shipping AI demo tooling for the GTM team.
+‣ AI Engineer at Stripe, shipping AI tooling for the GTM team.
+
+‣ Cofounder of [stormfare.com](https://www.stormfare.com) — AI website, app, and tool builder for startups and small businesses.
 
 ‣ Founder of [convention.sh](https://convention.sh) — teaching coding agents to stop writing sloppy TypeScript.
 
