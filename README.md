@@ -1,6 +1,6 @@
 ‣ AI Engineer at Stripe, shipping AI tooling for the GTM team.
 
-‣ Director of Quantitative Research at [LFT](https://www.lowfrequencytrading.com), trialing new strategies on a daily basis with continual reinforcement learning.
+‣ Quantitative Researcher at [LFT](https://www.lowfrequencytrading.com).
 
 ‣ Graduated with my B.S. in Computer Science in two years.
 
